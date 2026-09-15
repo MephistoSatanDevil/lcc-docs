@@ -30113,9 +30113,9 @@
     },
     {
         "id": 2139,
-        "description": "",
+        "description": "这个宗派模拟了战士/术士。它可以专精所有武器，并能穿戴所有物品。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce kit simule un guerrier/sorcier. Il peut se spécialiser dans toutes les armes et porter tous les objets."
         },
         "notes": [],
@@ -30126,14 +30126,16 @@
     },
     {
         "id": 2140,
-        "description": "",
+        "description": "这个模组修改了法师和德鲁伊的变形形态：它改变了角色的武器，使变形更加逼真，更接近其真实形态。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce mod modifie les métamorphoses des mages et des druides : il altère l'arme des personnages rendant les métamorphoses plus réalistes et plus proches de leur version réelle."
         },
-        "notes": [],
+        "notes": [
+			"它会覆盖相关法术的文件。"
+		],
         "notes_meta": {
-            "status": "todo",
+            "status": "done",
             "source": [
                 "Il écrase les fichiers des sorts concernés."
             ]
